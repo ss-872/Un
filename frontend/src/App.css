@@ -1,0 +1,70 @@
+.all{
+  font-weight: lighter;
+}
+.displayquestions{
+  text-align: center;
+  background-color:lightgrey;
+  min-height: 96vh;
+  font-family: sans-serif;
+}
+.display{
+  width:80%;
+  margin:auto;
+}
+.formq{
+  text-align: left;
+  width:80%;
+  background-color: white;
+  padding: 10px 15px;
+  margin:15px 0px;
+  font-family: sans-serif;
+}
+.upload{
+  margin-left: 15px;
+  font-family: sans-serif;
+text-align: left;
+padding: 5px;
+}
+.create{
+  width:30%;
+  background-color: white;
+  padding: 10px 15px;
+  margin: 10px 0px;
+font-family: sans-serif;
+margin: auto;
+text-align: center;
+}
+.optionin{
+  
+  margin-left: 50px;
+  font-family: sans-serif;
+  justify-content: center;
+  align-items: left;
+  width:60% !important
+}
+.optiontop{
+  margin-top: 10px;
+  font-family: sans-serif;
+justify-content: center;
+max-width: 400;  
+
+  
+}
+
+.head{
+  color: darkgrey;
+  font-size: medium;
+  font-family: sans-serif;
+}
+.uff{
+  margin: auto;
+}
+input[type=radio],
+
+    input.radio {
+      margin: auto;
+      float: left;
+      clear: none;
+      margin: 2px 0 0 2px;
+      
+    }
